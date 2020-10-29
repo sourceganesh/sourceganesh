@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2> About Me </h2>
+<h4> I am a Full Stack Developer and a Machine Learning enthusiast. <br> 
+     I have built Web Applications using Django, ROR, etc. <br>
+     I am currently pursuing my BTech Degree in Mechanical Engineering from NITK, Surathkal </h4>
